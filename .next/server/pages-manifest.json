@@ -1,0 +1,18 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.js",
+  "/confirm": "pages/confirm.js",
+  "/contact": "pages/contact.js",
+  "/": "pages/index.js",
+  "/login": "pages/login.js",
+  "/newPassword": "pages/newPassword.js",
+  "/notice": "pages/notice.js",
+  "/products/[productID]/[processID]": "pages/products/[productID]/[processID].js",
+  "/products/[productID]": "pages/products/[productID].js",
+  "/products": "pages/products.js",
+  "/recover": "pages/recover.js",
+  "/signup": "pages/signup.js",
+  "/sync": "pages/sync.js"
+}
